@@ -3,7 +3,8 @@
 ## 🐻‍❄️ Profile
 
 - Wonbin Lee
-- *Bachelor of AI&Computer Science*, Handong Global Univeristy (MAR 2019 - Present)
+- Research Intern, Urban Robotics Lab @ KAIST (Jan 2025 - Present)
+- *Bachelor of AI&Computer Science*, Handong Global Univeristy (Mar 2019 - Feb 2025)
 
 
 ## :snail: Software Stack
