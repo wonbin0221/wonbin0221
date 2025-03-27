@@ -12,14 +12,10 @@
 - Autonomous Driving & Robotics : <a><img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 - Additional Skills : <a><img src="https://img.shields.io/badge/Vim-200000?style=flat-square&logo=Vim"/> </a>
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m interested in ...
 
-- SLAM
-- Sensor Fusion
-- Filtering Theories
-- Local Planning
-- Model Predictitive Control
-- Iterative Learning Control
+- Odometry
+- Visual-Language Action
 
 ## Projects
 Project | Detail | Date |
