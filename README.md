@@ -16,7 +16,9 @@
 ## 🌱 I’m interested in ...
 
 - Odometry
+- Sensor Fusion
 - Visual-Language Action
+- Foundation Model
 
 ## Projects
 Project | Detail | Date |
